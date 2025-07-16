@@ -3,7 +3,7 @@ layout: post
 title:  "We are live @ fireforthewall.org"
 subtitle: "We have a new website..."
 date: 2025-07-16
-autho: ["Zola Gonano", "https://zola.ink"]
+author: ["Zola Gonano", "https://zola.ink"]
 categories: ["general"]
 ---
 
